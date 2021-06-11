@@ -1,10 +1,10 @@
 const colors = {
   white: '#FFF',
-  blazeOrange: '#FE6301',
-  mantis: '#69C779',
+  blazeOrange: '#A16AE8', //error
+  mantis: '#FD49A0', //success
   alto: '#D8D8D8',
   dustyGray: '#979797',
-  lightSkyBlue: '#87CEFA'
+  lightSkyBlue: '#FFAED5' //info
 };
 
 export default colors;
